@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5743" started-at="2023-03-03T04:19:55Z" finished-at="2023-03-03T04:20:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5743" started-at="2023-03-03T04:19:55Z" finished-at="2023-03-03T04:20:01Z">
+      <class name="sumo.AB">
+        <test-method status="PASS" signature="bc()[pri:0, instance:sumo.AB@6580cfdd]" name="bc" is-config="true" duration-ms="4250" started-at="2023-03-03T04:19:55Z" finished-at="2023-03-03T04:19:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method status="PASS" signature="any()[pri:0, instance:sumo.AB@6580cfdd]" name="any" is-config="true" duration-ms="1" started-at="2023-03-03T04:19:59Z" finished-at="2023-03-03T04:19:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- any -->
+        <test-method status="PASS" signature="t4()[pri:0, instance:sumo.AB@6580cfdd]" name="t4" duration-ms="815" started-at="2023-03-03T04:19:59Z" finished-at="2023-03-03T04:20:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t4 -->
+        <test-method status="PASS" signature="aaa()[pri:0, instance:sumo.AB@6580cfdd]" name="aaa" is-config="true" duration-ms="0" started-at="2023-03-03T04:20:00Z" finished-at="2023-03-03T04:20:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aaa -->
+        <test-method status="PASS" signature="bm()[pri:0, instance:sumo.AB@6580cfdd]" name="bm" is-config="true" duration-ms="656" started-at="2023-03-03T04:20:00Z" finished-at="2023-03-03T04:20:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+      </class> <!-- sumo.AB -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
